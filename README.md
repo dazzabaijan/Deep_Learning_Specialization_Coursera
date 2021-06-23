@@ -1,5 +1,5 @@
 # Coursera Deep Learning Specialization by DeepLearning.ai
-A repository for all 5 Deep Learning courses that I have done.
+A repository for all programming assignments and quizzes of all five Deep Learning courses that I have completed.
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
