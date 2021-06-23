@@ -25,7 +25,7 @@ A repository for all 5 Deep Learning courses that I have done.
   
 ### Course 4: Convolutional Neural Networks
 
-- [W1A1 - Convolutional Model: step by step](https://github.com/dazzabaijan/Deep_Learning_Specialization_Coursera/blob/main/Course_4_Convolutional_Neural_Networks/W1/W1A1/Convolution_model_Step_by_Step_v1.ipynb)
+- [W1A1 - Convolutional Model: Step by Step](https://github.com/dazzabaijan/Deep_Learning_Specialization_Coursera/blob/main/Course_4_Convolutional_Neural_Networks/W1/W1A1/Convolution_model_Step_by_Step_v1.ipynb)
 - [W1A2 - Convolutional Neural Networks: Application](https://github.com/dazzabaijan/Deep_Learning_Specialization_Coursera/blob/main/Course_4_Convolutional_Neural_Networks/W1/W1A2/Convolution_model_Application.ipynb)
 - [W2A1 - Residual Networks](https://github.com/dazzabaijan/Deep_Learning_Specialization_Coursera/blob/main/Course_4_Convolutional_Neural_Networks/W2/W2A1/Residual_Networks.ipynb)
 - [W2A2 - Transfer Learning with MobileNetV2](https://github.com/dazzabaijan/Deep_Learning_Specialization_Coursera/blob/main/Course_4_Convolutional_Neural_Networks/W2/W2A2/Transfer_learning_with_MobileNet_v1.ipynb)
