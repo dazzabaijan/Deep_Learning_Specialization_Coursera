@@ -17,7 +17,7 @@ A repository for all 5 Deep Learning courses that I have done.
 - [W1A2 - Regularization](https://github.com/dazzabaijan/Deep_Learning_Specialization_Coursera/blob/main/Course_2_Improving_Deep_Neural_Networks/W1/W1A2/Regularization.ipynb)
 - [W1A3 - Gradient Checking](https://github.com/dazzabaijan/Deep_Learning_Specialization_Coursera/blob/main/Course_2_Improving_Deep_Neural_Networks/W1/W1A3/Gradient_Checking.ipynb)
 - [W2A1 - Optimization Methods](https://github.com/dazzabaijan/Deep_Learning_Specialization_Coursera/blob/main/Course_2_Improving_Deep_Neural_Networks/W2A1/Optimization_methods.ipynb)
-- [W3A1 - TensorFlow Tutorial](https://github.com/dazzabaijan/Deep_Learning_Specialization_Coursera/blob/main/Course_2_Improving_Deep_Neural_Networks/W3A1/Tensorflow_introduction.ipynb)
+- [W3A1 - TensorFlow Introduction](https://github.com/dazzabaijan/Deep_Learning_Specialization_Coursera/blob/main/Course_2_Improving_Deep_Neural_Networks/W3A1/Tensorflow_introduction.ipynb)
 
 ### Course 3: Structuring Machine Learning Projects
 
