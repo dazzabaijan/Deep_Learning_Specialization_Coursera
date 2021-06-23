@@ -29,7 +29,7 @@ A repository for all 5 Deep Learning courses that I have done.
 - [W1A2 - Convolutional Neural Networks: Application](https://github.com/dazzabaijan/Deep_Learning_Specialization_Coursera/blob/main/Course_4_Convolutional_Neural_Networks/W1/W1A2/Convolution_model_Application.ipynb)
 - [W2A1 - Residual Networks](https://github.com/dazzabaijan/Deep_Learning_Specialization_Coursera/blob/main/Course_4_Convolutional_Neural_Networks/W2/W2A1/Residual_Networks.ipynb)
 - [W2A2 - Transfer Learning with MobileNetV2](https://github.com/dazzabaijan/Deep_Learning_Specialization_Coursera/blob/main/Course_4_Convolutional_Neural_Networks/W2/W2A2/Transfer_learning_with_MobileNet_v1.ipynb)
-- [W3A1 - Autonomous Driving - Car Detection](https://github.com/dazzabaijan/Deep_Learning_Specialization_Coursera/blob/main/Course_4_Convolutional_Neural_Networks/W3/W3A1/Autonomous_driving_application_Car_detection.ipynb)
+- [W3A1 - Car detection with YOLO](https://github.com/dazzabaijan/Deep_Learning_Specialization_Coursera/blob/main/Course_4_Convolutional_Neural_Networks/W3/W3A1/Autonomous_driving_application_Car_detection.ipynb)
 - [W3A2 - Image Segmentation with U-Net](https://github.com/dazzabaijan/Deep_Learning_Specialization_Coursera/blob/main/Course_4_Convolutional_Neural_Networks/W3/W3A2/Image_segmentation_Unet_v2.ipynb)
 - [W4A1 - Face Recognition](https://github.com/dazzabaijan/Deep_Learning_Specialization_Coursera/blob/main/Course_4_Convolutional_Neural_Networks/W4/W4A1/Face_Recognition.ipynb)
 - [W4A2 - Art Generation with Neural Style Transfer](https://github.com/dazzabaijan/Deep_Learning_Specialization_Coursera/blob/main/Course_4_Convolutional_Neural_Networks/W4/W4A2/Art_Generation_with_Neural_Style_Transfer.ipynb)
