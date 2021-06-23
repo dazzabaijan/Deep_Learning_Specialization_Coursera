@@ -1,5 +1,7 @@
-# Deep Learning Specialization offered by DeepLearning.ai on Coursera
+# Coursera Deep Learning Specialization by DeepLearning.ai
 A repository for all 5 Deep Learning courses that I have done.
+
+Instructor: [Andrew Ng](http://www.andrewng.org/)
 
 ## Programming Assignments
 
