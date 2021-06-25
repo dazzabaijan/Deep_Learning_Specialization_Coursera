@@ -1,5 +1,5 @@
 # Coursera Deep Learning Specialization by DeepLearning.ai
-A repository for all programming assignments and quizzes of all five Deep Learning courses that I have completed.
+[A repository for all programming assignments and quizzes of all five Deep Learning courses that I have completed.](https://github.com/dazzabaijan/Deep_Learning_Specialization_Coursera/blob/main/Coursera%20NN%20and%20DL%20Certificate%20Whole%20Specialization.pdf)
 
 Instructor: [Andrew Ng](http://www.andrewng.org/)
 
